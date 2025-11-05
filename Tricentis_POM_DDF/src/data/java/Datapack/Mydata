@@ -1,0 +1,28 @@
+URL = https://sampleapp.tricentis.com/101/app.php
+MAKE = //select[@id ='make']
+seats =//select[@id ='numberofseats']
+fueltype = //select[@id ='fuel']
+Country = //select[@id ='country']
+Occupation = //select[@id ='occupation']
+sum = //select[@id ='insurancesum']
+Rating = //select[@id = 'meritrating']
+damageinsurance =//select[@id = 'damageinsurance']
+Car = //select[@id ='courtesycar']
+
+performance  = 1200
+Manufacture = 01/01/2020
+Listprice = 50000
+PlateNo = AB123CD
+Mileage = 10000
+FirtName = John
+LastName = Deo
+DOB = 01/01/1990
+Address = Temple street
+Zipcode = 600001
+City = Chennai
+Stsrtdate = 11/11/2025
+gmail = john@gmail.com
+uaername = johndeo
+password = Test@123
+confirmpassword = Test@123
+
