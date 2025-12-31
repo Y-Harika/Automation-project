@@ -7,21 +7,21 @@ It follows a **Hybrid Framework** approach combining **Page Object Model (POM)**
 
 ##  Technologies Used
 
-*Programming Language: Java
+* Programming Language: Java
 
-*Automation Tool: Selenium WebDriver
+* Automation Tool: Selenium WebDriver
 
-*Testing Framework: TestNG
+* Testing Framework: TestNG
 
-*Build Tool: Maven
+* Build Tool: Maven
 
-*Design Pattern: Page Object Model (POM)
+* Design Pattern: Page Object Model (POM)
 
-*Data Handling: Excel (Data-Driven Testing)
+* Data Handling: Excel (Data-Driven Testing)
 
-*IDE: Eclipse
+* IDE: Eclipse
 
-*Version Control: Git & GitHub
+* Version Control: Git & GitHub
 
 ## Project Structure
 
@@ -47,21 +47,19 @@ Automation-project
 └── README.md
 ```
 
-##  Automated Test Scenarios
+## Features
 
--Features
+* Automated functional test cases
 
-*Automated functional test cases
+* Page Object Model for better code organization
 
-*Page Object Model for better code organization
+* Data-Driven testing using Excel
 
-*Data-Driven testing using Excel
+* Reusable utility classes
 
-*Reusable utility classes
+* Test execution using TestNG
 
-*Test execution using TestNG
-
-*Easy maintenance and scalability
+* Easy maintenance and scalability
 
 ## How to Run the Project
 
@@ -77,17 +75,36 @@ Automation-project
    * **TestNG XML file**, or
    * Right-click on test class → Run as **TestNG Test**
 
-##  Sample Test Scenario
+##  Automated Test Scenarios
 
-* Login functionality
-  * Valid login
-  * Invalid login
-  * Empty username/password validation
+* Login functionality (valid & invalid credentials)
+
+* New vehicle insurance policy registration
+
+* Policy details validation
+
+* Insurance premium calculation
+
+* Claim submission workflow
+
+* Negative test cases and validation messages
 
 ##  Reporting
 
 * Test execution results are generated using **TestNG reports**
 * Logs and failures can be enhanced using reporting tools like **Extent Reports** (future scope)
+
+ ## Screenshots
+
+Add screenshots after test execution
+
+/screenshots
+ ├── login-success.png
+ ├── policy-registration.png
+ └── claim-submission.png
+
+
+Upload screenshots to a screenshots folder and they will render automatically in GitHub.
 
 ##  Future Enhancements
 
