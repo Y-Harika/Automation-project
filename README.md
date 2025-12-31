@@ -7,14 +7,21 @@ It follows a **Hybrid Framework** approach combining **Page Object Model (POM)**
 
 ##  Technologies Used
 
--Programming Language: Java
--Automation Tool: Selenium WebDriver
--Testing Framework: TestNG
--Build Tool: Maven
--Design Pattern: Page Object Model (POM)
--Data Handling: Excel (Data-Driven Testing)
--IDE:** Eclipse
--Version Control: Git & GitHub
+*Programming Language: Java
+
+*Automation Tool: Selenium WebDriver
+
+*Testing Framework: TestNG
+
+*Build Tool: Maven
+
+*Design Pattern: Page Object Model (POM)
+
+*Data Handling: Excel (Data-Driven Testing)
+
+*IDE: Eclipse
+
+*Version Control: Git & GitHub
 
 ## Project Structure
 
@@ -43,12 +50,18 @@ Automation-project
 ##  Automated Test Scenarios
 
 -Features
--Automated functional test cases
--Page Object Model for better code organization
--Data-Driven testing using Excel
--Reusable utility classes
--Test execution using TestNG
--Easy maintenance and scalability
+
+*Automated functional test cases
+
+*Page Object Model for better code organization
+
+*Data-Driven testing using Excel
+
+*Reusable utility classes
+
+*Test execution using TestNG
+
+*Easy maintenance and scalability
 
 ## How to Run the Project
 
