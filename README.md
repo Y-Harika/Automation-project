@@ -103,8 +103,11 @@ Add screenshots after test execution
  ├── policy-registration.png
  └── claim-submission.png
 
+## Conclusion
 
-Upload screenshots to a screenshots folder and they will render automatically in GitHub.
+This Vehicle Insurance Application – Selenium Automation Testing Project demonstrates the implementation of a robust and scalable automation framework using Selenium WebDriver, Java, TestNG, and Maven. By applying Page Object Model (POM) and Data-Driven Testing, the project ensures maintainable test scripts and efficient test execution.
+
+The automation of real-time insurance workflows such as login, policy registration, premium validation, and claim submission reflects practical industry experience. This project strengthened my understanding of the software testing life cycle, automation best practices, and end-to-end QA processes, making it highly relevant for QA Automation Engineer roles.
 
 ##  Future Enhancements
 
